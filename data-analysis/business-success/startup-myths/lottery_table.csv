@@ -1,0 +1,7 @@
+dataset,n,median,mean,gini,top1pct_share,top10pct_share
+Indie Hackers: monthly revenue,2827,0.0,36155.0,0.921,52.5,86.7
+Gumroad: units sold x price (disclosers),316,827.5,45616.0,0.912,48.0,85.5
+PHBench featured launches: votes,47071,100.0,144.7,0.368,6.4,31.6
+Product Hunt 2020-22: upvotes,32572,79.0,176.7,0.597,10.8,44.6
+Product Hunt 12k (2022 scrape): upvotes,10467,3.0,4.9,0.484,8.1,35.6
+PH raw launches (incl. unfeatured): votes,5624,2.0,9.1,0.825,38.9,81.8
