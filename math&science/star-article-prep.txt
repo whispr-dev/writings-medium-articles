@@ -1,0 +1,46 @@
+4. How Many Times Can a Star Explode Without Actually Dying?
+Trigger — 9 November 2026: Coordinated Chandra observations identified X-rays accompanying the recurrent eruptions of AT 2016blu, a massive “supernova impostor” that has produced at least 27 observed outbursts at roughly 113-day intervals. Astrophysical Journal paper · Chandra release chandra.cfa.harvard.edu
+
+Opening surprise: Astronomers have watched one star apparently imitate a supernova roughly three times a year—and survive every performance.
+
+Why it has seven-minute depth: AT 2016blu is a luminous blue variable at least 33 times the Sun’s mass, about 30 million light-years away. Its regular flashes suggested an orbital clock. Chandra caught the system during a March 2026 eruption and found it at least 100 times brighter in X-rays than archival observations made before the repeated outbursts began.
+
+The leading explanation is an unseen neutron star or stellar-mass black hole in an eccentric 113-day orbit. During close approaches, it captures material expelled by the giant star, generating X-rays that heat surrounding gas and produce the spectacular visible brightening.
+
+Article path:
+1. Open with a star that repeatedly appears to die.
+2. Explain the difference between a genuine terminal supernova and an impostor eruption.
+3. Introduce luminous blue variables and unstable mass loss.
+4. Reveal the 113-day clock and compact companion.
+5. Which leads to: some astronomical “events” are really recurring relationships, visible only when observation catches the correct phase.
+6. Explore how periodicity turns apparent chaos into evidence for unseen objects.
+Reader question: When we witness a cosmic explosion only once, how confidently can we know whether we saw a death—or merely one beat in a cycle?
+
+Philosophical landing: Catastrophe and repetition can look identical when our lives are too short to see the rhythm.
+
+Research traps: The compact companion has not been directly classified; it could be a neutron star or black hole. The accretion explanation is the best-supported interpretation, not a photographed mechanical sequence. “Explosion” is rhetorically useful but these eruptions do not destroy the star.
+
+Scores: Hook 9.8 · Depth 9.4 · Freshness 9.7 · Claudia fit 9.8
+
+
+2. Some Stars May Vanish Without Exploding—and Their Silence Is Written in Black-Hole Masses
+Trigger — 10 November 2026: Analysis of 153 gravitational-wave detections finds a strong concentration of merging black holes around ten solar masses, followed by an approximately hundredfold rate drop between roughly 10 and 15 solar masses. A model containing a distinct population formed through failed supernovae can reproduce this peculiar structure. Phys. Rev. D
+
+Primary sources: Physical Review D paper · APS synopsis · Caltech explanation
+
+Opening surprise: The absence of an explosion may leave a clearer statistical fingerprint than an explosion does.
+
+Why it has seven-minute depth: Supernovae normally eject much of a star and may leave a neutron star. The proposed alternative involves progenitors whose unusually compact cores collapse efficiently and quietly into black holes near ten solar masses. The gravitational-wave catalogue shows not a smooth continuum but a peak, a 12–16-solar-mass “desert,” and a renewed population above it. That creates room to explain hierarchical inference, selection effects, stellar interiors and how populations reveal events no telescope directly witnessed.
+
+Article path: Begin with a massive star apparently disappearing → explain ordinary versus failed core collapse → introduce gravitational-wave “weighing” of binary black holes → explore the peak and gap in the inferred distribution → which leads to: using statistical absences as astronomical evidence, from missing masses to missing planets and particles.
+
+Reader question: How much confidence should we place in an invisible astrophysical event inferred from the shape of a population rather than observed individually?
+
+Possible close: The Universe does not always announce its transformations; sometimes the proof lies in what its survivors weigh.
+
+Risks/traps: This is a model consistent with the data, not confirmation that most ten-solar-mass black holes formed this way. Mass-distribution inference depends on population assumptions and detector selection effects. The paper says increased core compactness contributes to the peak but cannot alone explain the full rate difference.
+
+Scores: Hook 9.5 · Depth 9.6 · Freshness 9.8 · Fit 9.5
+
+
+Astronomy, Astrophysics, Black Holes, Space, Science
